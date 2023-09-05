@@ -1,6 +1,5 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
-# my code
 
 terraform {
   required_providers {
